@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\NOTEBOOK\\anaconda3\\envs\\django_twitter\\python.exe",
+
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ]
+}
